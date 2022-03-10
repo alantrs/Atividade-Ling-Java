@@ -2,16 +2,6 @@ package Loja;
 
 public class Carro {
 
-	//c comentario de uma linha
-	
-		/*
-		 * 
-		 comentario de bloco 
-		 */
-		/**
-		 *  comenatrio de documentação
-		 * @param args
-		 */
 		
 		// atributos de classe -> caracteristicas
 		
